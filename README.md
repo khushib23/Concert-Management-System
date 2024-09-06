@@ -18,7 +18,6 @@ JavaScript enhances the user experience on the website by adding interactive fea
 PHP is often used on the server-side to handle user requests, such as processing ticket bookings, managing payments, or generating invoices. It works with the database (SQL) to retrieve and store data securely.
 
 
-### 
-By integrating these technologies, concert management becomes more streamlined, offering an efficient system for both organizers and attendees.
+#### By integrating these technologies, concert management becomes more streamlined, offering an efficient system for both organizers and attendees.
 
-It is a basic structure show casing how the management is done to givw us full heart warming experiences..
+##### It is a basic structure show casing how the management is done to givw us full heart warming experiences..
